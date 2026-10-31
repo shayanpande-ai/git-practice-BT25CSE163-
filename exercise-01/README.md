@@ -9,7 +9,7 @@ To check the installed Git version, configure the repository-local username and 
 ```bash
 git --version
 
-git config user.name "Love Gupta"
+git config user.name "Shayan Pande"
 git config user.email "your-email@example.com"
 
 git config --get user.name
