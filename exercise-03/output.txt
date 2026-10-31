@@ -1,0 +1,14 @@
+SECOND VERSION – EMPTY INPUT HANDLING
+
+Test 1:
+Input: Shayan
+Output:
+Enter your name:
+Love
+Hello, Love! Welcome.
+
+Test 2:
+Input: (empty)
+Output:
+Enter your name:
+Hello, Guest! Welcome.
